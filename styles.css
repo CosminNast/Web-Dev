@@ -1,0 +1,58 @@
+body {
+    display: inline-block;
+}
+
+.header {
+    background-color: green;
+    text-align: center;
+    font-family: 'Abhaya Libre';
+    font-size: 20px;
+    width: 800px;
+}
+
+.container {
+    background-color: lightblue;
+    width: 800px;
+}
+
+.content {
+    background-color: orange;
+    width: 800px;
+}
+
+.main {
+    background-color: blue;
+    color: white;
+    font-family: 'Cedarville Cursive';
+    font-size: 22px;
+    width: 600px;
+}
+
+.nav {
+    background-color: purple;
+    width: 180px;
+    margin-left: 18px;
+}
+
+table,
+td {
+    border: 1px solid white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-family: 'Aclonica';
+    font-size: 20px;
+    width: 800px;
+}
+
+.row {
+    width: 800px;
+}
+
+
+
+table.nav {
+    color: white;
+}
